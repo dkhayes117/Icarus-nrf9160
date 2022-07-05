@@ -1,0 +1,10 @@
+[package]
+name = "Icarus-nrf9160"
+authors = ["Daniel Hayes <dkhayes117@yahoo.com>"]
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+nrf9160-hal = "0.15.1"
